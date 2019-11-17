@@ -1,8 +1,6 @@
 # Problem-based learning: Fingerprint Verification
 Yet Another Fingerprint Verification System
 
-![Slide1](https://user-images.githubusercontent.com/22574003/69008528-086b4b00-097e-11ea-8b00-097d35a9c921.jpeg)
-
 ## Outline
 - **Set-up**
 - **Part I: Fingerprint segmentation**
