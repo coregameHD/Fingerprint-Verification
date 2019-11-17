@@ -21,11 +21,15 @@ Yet Another Fingerprint Verification System
 
 - **Part IV: Matching**
   - Class `MnMatcher`
-  - Class `FpMatcher
-  
+  - Class `FpMatcher`
+
+***
+
 ## Results
 ![Slide2](https://user-images.githubusercontent.com/22574003/69008529-0903e180-097e-11ea-94fb-7ee4f00c97a3.jpeg)
 ![Slide3](https://user-images.githubusercontent.com/22574003/69008531-099c7800-097e-11ea-9e1f-1c6783bd1afd.jpeg)
+
+***
 
 ## How it works
 ![Slide4](https://user-images.githubusercontent.com/22574003/69008533-099c7800-097e-11ea-93e5-8c47bf08101e.jpeg)
